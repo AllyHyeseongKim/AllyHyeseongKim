@@ -78,7 +78,7 @@
 <div align="center">
 
 [![AllyHyeseongKim's github stats](https://github-readme-stats.vercel.app/api?username=AllyHyeseongKim&show_icons=true&hide_border=true)](https://github.com/AllyHyeseongKim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyHyeseongKim&layout=compact)](https://github.com/AllyHyeseongKim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyHyeseongKim&layout=compact&langs_count=8)](https://github.com/AllyHyeseongKim)
 
 </div>
 
