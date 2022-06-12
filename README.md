@@ -46,7 +46,7 @@
 
 **Papers**
 - [Sung Woo Park, Hyomin Kim, Hyeseong Kim, Junseok Kwon, Riemannian Neural SDE: Learning Stochastic Representations on Manifolds, ICLR 2022 Workshop on Geometrical and Topological Representation Learning, 2022.](https://openreview.net/pdf?id=SF8lkH-J6e9)
-- [Sungmin Cho, Hyeseong Kim, Junseok Kwon, Filter Pruning Via Softmax Attention, 2021 IEEE International Conference on Image Processing (ICIP), 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506724)
+- [Sungmin Cho, Hyeseong Kim, Junseok Kwon, Filter Pruning Via Softmax Attention, 2021 IEEE International Conference on Image Processing (ICIP), 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506724)
 
 ### 🏅 Awards
 |Awards|Grade|Date|Note|
