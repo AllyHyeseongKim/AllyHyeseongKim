@@ -70,7 +70,7 @@
 **Presentation**
 -->
 **Teaching**
- - Assistant, Visual Programming *2020. 09. ~ 2018. 12.*
+ - Assistant, Visual Programming *2020. 09. ~ 2020. 12.*
  - Assistant, Calculus *2018. 03. ~ 2018. 06.*
  - 2020 [Sprout Class](https://wiki.zeropage.org/wiki.php/새싹교실/2020/알수없는파이썬과ML맛) Mentor (hosted by ZeroPage)
 
