@@ -64,6 +64,7 @@
  - CAUCSE 1st Student Ambassador *2019.09 ~ 2019.12*
 
 **Others**
+- AWSKRUG University Student Group (AUSG) 6th *2022. 07. ~ now*
 - Google Developer Groups Campus Korea Staff
 - Qiskit Hackathon Korea Staff
 <!--
