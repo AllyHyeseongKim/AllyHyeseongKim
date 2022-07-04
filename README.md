@@ -3,9 +3,10 @@
 <h1>Ally Hyeseong Kim (Ally)</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AllyHyeseongKim/)
-[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@ally3k)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/AllyHyeseongKim)
 </div>
+
+<!--[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@ally3k)-->
 
 ### 💻 Work Experience
 | Role | Company | Period |
