@@ -22,7 +22,7 @@
 
 ### 🎓 Education
 - Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~
-  - **GPA** : All 4.18/4.5 (96.34%)
+  - **GPA** : All 4.19/4.5 (96.46%)
 
 ## ⚒ Tech Skill
 |Classification|Skills|
