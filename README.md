@@ -23,7 +23,7 @@
 ### 🎓 Education
 - Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~
   - **GPA** : All 4.19/4.5 (96.46%)
-  - 2020-2 Scholarship for academic excellence
+  - 2020-2 CAU Scholarship for academic excellence in Computer Science & Engineering
 
 ## ⚒ Tech Skill
 |Classification|Skills|
