@@ -38,6 +38,7 @@
 ## 🌏 Other Experience
 ### 📝 Project
 **School Project**
+ - [LifeGame](https://github.com/CAU-DesignPattern/LifeGame) / Design Pattern Project
  - [MMMaker](https://github.com/C4Ution/MMMaker) / Open Source SW Project
  - [Thread Synchronization Problem](https://github.com/AllyHyeseongKim/CAU15841_OperatingSystems) / Operating Systems
  - [Used-book Marketplace](https://github.com/AllyHyeseongKim/CAU11708_SoftwareEngineering/tree/master/Used-book_Marketplace) / Software Engineering
