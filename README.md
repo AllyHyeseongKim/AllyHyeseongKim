@@ -17,12 +17,12 @@
 ### 👩‍🔬 Research Experience
 | Role | Company | Period |
 |:---|:---:|---:|
-| Undergraduate Researcher | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.07. ~ |
+| Undergraduate Researcher | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.07. ~ 2022.15. |
 | Undergraduate Researcher | [AutoML Lab. (Advisor. Prof. Jaesung Lee)](http://ml.cau.ac.kr) | 2018.09. ~ 2019.06. |
 
 ### 🎓 Education
-- Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~
-  - **GPA** : All 4.19/4.5 (96.46%)
+- Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~ 2022.15.
+  - **GPA** : All 4.17/4.5 (96.23%) Magna Cum Laude
   - 2020-2 CAU Scholarship for academic excellence in Computer Science & Engineering
 
 ## ⚒ Tech Skill
