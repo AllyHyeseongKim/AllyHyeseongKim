@@ -17,7 +17,7 @@
 ### 👩‍🔬 Research Experience
 | Role | Company | Period |
 |:---|:---:|---:|
-| Undergraduate Researcher | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.07. ~ 2022.15. |
+| Undergraduate Researcher | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.07. ~ 2023.02. |
 | Undergraduate Researcher | [AutoML Lab. (Advisor. Prof. Jaesung Lee)](http://ml.cau.ac.kr) | 2018.09. ~ 2019.06. |
 
 ### 🎓 Education
