@@ -21,7 +21,7 @@
 | Undergraduate Researcher | [AutoML Lab. (Advisor. Prof. Jaesung Lee)](http://ml.cau.ac.kr) | 2018.09. ~ 2019.06. |
 
 ### 🎓 Education
-- Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~ 2022.15.
+- Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~ 2023.02.
   - **GPA** : All 4.17/4.5 (96.23%) Magna Cum Laude
   - 2020-2 CAU Scholarship for academic excellence in Computer Science & Engineering
 
