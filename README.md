@@ -61,9 +61,9 @@
 
 ### Activity
 **School Club**
- - CAU ZeroPage 28th *2018. 03. ~ now*
- - CAU MUSE 27th Vocalist *2018. 03. ~ now*
- - CAU RUBATO 34th Violin *2018. 03. ~ now*
+ - CAU ZeroPage 28th *2018.03 ~ 2023.02*
+ - CAU MUSE 27th Vocalist *2018.03 ~ 2023.02*
+ - CAU RUBATO 34th Violin *2018.03 ~ 2023.02*
  - CAUCSE 1st Student Ambassador *2019.09 ~ 2019.12*
 
 **Others**
