@@ -11,7 +11,7 @@
 ### 💻 Work Experience
 | Role | Company | Period |
 |:---|:---:|---:|
-| Learning Manager | [Day1 Company](https://day1company.co.kr) | 2022.04. ~ 2022.06. |
+| Software Engineer, Backend | [Naver Corp.](https://navercorp.com) | 2023.07. ~ |
 | Artificial Intelligence Research Scientist (Intern) | [NYX inc.](http://gosleep.kr) | 2020.12. ~ 2022.02. |
 
 ### 👩‍🔬 Research Experience
